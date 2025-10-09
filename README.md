@@ -27,7 +27,7 @@ I believe in clean code, efficient algorithms, and continuous learning. When I'm
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Cavitbatusoylu]&show_icons=true&theme=dark)
 
 ## 🤝 Connect with Me
 
