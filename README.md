@@ -1,45 +1,20 @@
-# Hi there! 👋 I'm [Cavitbatusoylu]
+# Hi there! 👋 I'm Cavit Batu Soylu
 
 ## About Me
 
-I am a passionate Computer Engineer with expertise in multiple programming languages and technologies. My journey in software development spans across various domains, and I'm always eager to learn and implement new technologies to solve complex problems.
+I am a Computer Engineer from Van Yüzüncü Yıl University with expertise in Python, C++, and C#. I'm passionate about developing AI projects and always eager to learn new technologies.
 
 **Technical Skills:**
-- **Python** - Data analysis, web development, automation, and machine learning
-- **C++** - System programming, performance-critical applications, and game development
-- **C#** - Desktop applications, web development with ASP.NET, and enterprise solutions
-
-I believe in clean code, efficient algorithms, and continuous learning. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
+- **Python** - AI/ML, data analysis, web development
+- **C++** - System programming, performance-critical applications
+- **C#** - Desktop applications, ASP.NET development
 
 ## 🚀 Technologies & Tools
 
-### Programming Languages
-- Python 🐍
-- C++ ⚡
-- C# 🔷
-
-### Development Tools
-- Git & GitHub
-- Visual Studio / Visual Studio Code
-- PyCharm
-- Docker
-- SQL Databases
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cavitbatusoylu&show_icons=true&theme=dark)
+- Python 🐍 | C++ ⚡ | C# 🔷
+- Git & GitHub | Visual Studio | PyCharm | Docker
 
 ## 🤝 Connect with Me
 
-- **Email:** [CECBSofficial@hotmail.com]
+- **Email:** CECBSofficial@hotmail.com
 - **LinkedIn:** [https://tr.linkedin.com/in/cavit-batu-soylu]
-
-## 💡 Fun Fact
-
-I love solving algorithmic puzzles and contributing to open-source projects that make a difference in the developer community!
-
----
-
-*"Code is poetry written in logic"*
-
-⭐ From [Cavit Batu Soylu] ⭐
