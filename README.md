@@ -47,15 +47,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cavitbatusoylu&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cavitbatusoylu&layout=compact&locale=en&hide_border=true&langs_count=8&theme=transparent&cache_seconds=1800" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Cavitbatusoylu&hide_border=true&theme=transparent" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cavitbatusoylu&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</p>
