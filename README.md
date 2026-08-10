@@ -44,11 +44,3 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
 </p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Cavitbatusoylu&hide_border=true&theme=transparent" alt="Streak" />
-</p>
-
